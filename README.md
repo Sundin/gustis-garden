@@ -1,5 +1,7 @@
 # gustis-garden
 
+View site at https://gustis-garden.netlify.com/
+
 ## Project setup
 ```
 npm install
